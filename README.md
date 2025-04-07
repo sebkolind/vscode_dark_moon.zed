@@ -1,5 +1,5 @@
-# VScode Dark Plus Theme
+# VS Code Dark Moon
 
-https://github.com/tcd/dark-plus-syntax
+## Thanks!
 
-![image.png](https://s2.loli.net/2024/02/12/tk2u5fRmJSFPB1H.png)
+Special thanks to [d1y](https://github.com/d1y) for the theme that this theme is a fork of [VS Code Dark Plus](https://github.com/d1y/vscode_dark_plus.zed).
